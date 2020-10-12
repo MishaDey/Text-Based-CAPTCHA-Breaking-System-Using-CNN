@@ -37,15 +37,13 @@ The train and test dataset was generated using the "captcha" module/library, use
 
 ### 2. Convolutional Neural Network Model : 
 
-#### Overall Accuracy = 0.95578125
-
-
 ## Model.Summary() 
 
-Total params: 2,993,494
-Trainable params: 2,990,550
-Non-trainable params: 2,944
+    Total params: 2,993,494
+    Trainable params: 2,990,550
+    Non-trainable params: 2,944
 
+#### Overall Accuracy = 0.95578125
 
 ## Demonstration Video Link :
 
